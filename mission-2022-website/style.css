@@ -1,0 +1,213 @@
+body{
+    margin: 0%;
+    font-family:'Tai Heritage Pro', serif;
+
+}
+.top-bannar{
+    display: flex;
+    padding-bottom: 150px;
+    padding-top: 0.5%;
+}
+.half-width{
+    width: 130%;
+    padding-left: 10%;
+    padding-top: 15%;
+    padding-right: 5%;  
+}
+h1{
+    font-size: 68px;
+    margin: 0%;
+    padding-left: 1%;
+    padding-right: 6.5%;
+    line-height: 140%;
+    border-left: 4px solid;
+    border-color: tomato;
+    padding-bottom: 2%;
+}
+p{
+    font-family: 'poppins' , 'sans-serif';
+    margin-bottom: 8%;
+    padding: 0%;
+    font-size: large;
+    line-break:normal;
+    line-height: normal;
+    font-size: 17px;
+    text-align: justify;
+    color: dimgrey;
+}
+span{
+    color: orange;
+}
+.half-width2{
+    width: 40%;
+    padding-right: 10%;
+    padding-top:10%;
+    padding-left: 7%;
+}
+.button1{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 800;
+    margin: 10%;
+    font-family: 'poppins' , 'serif';
+    
+}
+#abul{
+    padding-top: 4%;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    font-family: 'Tai Heritage Pro', serif;
+    font-size: 45px;
+    font-weight: bolder;
+    margin: 0%;
+}
+.illustator{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 2%;
+}
+.c1{
+       margin-right:20px;
+       background-color: #dfeff8;
+       width: 100%;
+       padding: 100px;
+       border-radius: 5%;
+}
+.c2{
+    margin-left: 20px;
+    margin-right:20px;
+    width: 100%;
+    padding: 100px;
+    background-color: rgb(253, 236, 240);
+    border-radius: 5%;
+  }
+.c3{ 
+    margin-left: 20px;
+    width: 100%;
+    padding: 100px;
+    background-color:rgb(251, 246, 204);
+    border-radius: 5%;
+}
+h4{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+.code{
+    display: flex;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+.coding{
+    width: 80%;
+    padding-left: 10%;
+    padding-top: 2%;
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-x: 12%;
+}
+.he2{
+    width: 120%;
+    padding-left: 5%;
+    padding-right: 10%;
+    padding-top:5%;
+}
+h3{
+    text-align: left;
+    font-size: 40px;
+    line-height: 80%;
+}
+.button2{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 800;
+    font-family: 'poppins' , 'serif';
+    
+}
+.know{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 2%;
+}
+.h3{
+    padding-right:10%;
+    padding-top:2%;
+}
+.button3{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 800;
+    font-family: 'poppins' , 'serif';
+}
+.corona{
+    padding-top: 6%;
+    padding-bottom: 5%;
+}
+.app{
+    display: flex;
+    padding-bottom: 150px;
+    padding-top: 0.5%;
+}
+.appimage{
+    width: 80%;
+    padding-left: 35%;
+    padding-top: 2%;
+    text-align: left;
+    background-image: url(images/shapes/shape-3.png);
+    background-position: top left;
+    background-position-x: 78%;
+    background-repeat: no-repeat;
+}
+.safe{
+    width: 120%;
+    padding-left: 5%;
+    padding-right: 10%;
+    padding-top:8%;
+}
+#aa{
+    text-align: left;
+}
+.button4{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 800;
+    font-family: 'poppins' , 'serif';
+}
+footer{
+    text-align: center;
+    padding-top: 3%;
+    background: black;
+    margin: 0%;
+}
+#ami{
+   color: tomato;
+}
+#me{
+    color: white;
+}
+footer pre{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(221, 201, 201);
+    margin: 0%;
+}
